@@ -1,0 +1,9 @@
+C:\Users\Joshua\Desktop\C#\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\Joshua\Desktop\C#\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\Joshua\Desktop\C#\SelectionSort\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\Joshua\Desktop\C#\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\C#\SelectionSort\SelectionSort\obj\Debug\SelectionSort.Form1.resources
+C:\Users\Joshua\Desktop\C#\SelectionSort\SelectionSort\obj\Debug\SelectionSort.Properties.Resources.resources
+C:\Users\Joshua\Desktop\C#\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\C#\SelectionSort\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\Joshua\Desktop\C#\SelectionSort\SelectionSort\obj\Debug\SelectionSort.pdb
